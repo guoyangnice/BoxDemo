@@ -1,6 +1,7 @@
 # BoxDemo
 1、环境：jdk1.8 + idea + gradle
 2、如何运行：直接clone项目进入client类中进行运行，如无法运行，则直接copy代码到新的java项目，可以运行。
+3、请注意分支是master，不是main
 3、结果示例：
 第1个盒子的神秘数字:2019948
 第1个盒子的神秘hashvalue:000001ffde2d4babeb73f0287890f96391f80473de2bf1e6c2b231190ff10853
