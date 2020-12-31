@@ -1,6 +1,13 @@
+//打开盒子的持久化属性值
 public class OpenBoxProperty {
+    /**
+     * 神秘数字
+     */
     private int mysteriousNumber;
 
+    /**
+     * 打开盒子的hash值
+     */
     private String hashValue;
 
     public int getMysteriousNumber() {
